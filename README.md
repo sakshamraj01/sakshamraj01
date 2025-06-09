@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Saksham Raj</h1>
 <h3 align="center">Just another dev chasing elegance in code</h3>
-<img align=“right” alt="coding” width="400" src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Feasy-peasy.ai%2Fai-image-generator%2Fimages%2Fcheerful-mature-male-late-night-show-host-cartoon&psig=AOvVaw3ROeBMVFYeSdi4ydFKT4GT&ust=1749534195723000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiF4PjQ440DFQAAAAAdAAAAABAE”>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamraj01" alt="sakshamraj01" /></a> </p>
 
